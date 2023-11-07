@@ -9,4 +9,4 @@
 <br />
 <br />
 
-* [Diploma en Cobol (Universidad Católica Ávila):](https://github.com/fermyno/mainframe/tree/main/COBOL/Cobol-technician-specialist)  
+:open_file_folder: [Diploma en Cobol (Universidad Católica Ávila):](https://github.com/fermyno/mainframe/tree/main/COBOL/Cobol-technician-specialist)  
